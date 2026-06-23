@@ -1,37 +1,121 @@
-# **Exploratory Data Analysis (EDA) - Superstore Sales Dataset**
+📊 # **Superstore Sales Analysis & Business Intelligence Dashboard**
 
+🚀 ## **Project Overview**
 
-# Project Overview
+This project was developed as part of the ApexPlanet Data Analytics Internship Program. The objective was to perform data analysis, create meaningful visualizations, and build an interactive Power BI dashboard using the Superstore Sales Dataset.
 
-This project focuses on Exploratory Data Analysis (EDA) of the Superstore Sales Dataset. The objective was to clean the dataset, analyze sales trends, identify patterns, and generate actionable business insights.
+The project demonstrates skills in SQL, Data Analysis, Data Visualization, and Business Intelligence by transforming raw sales data into actionable business insights.
 
-# **Tools Used**
+---
 
+🛠️ ## **Tools & Technologies Used**
+
+- SQL
+- MySQL
 - Python
 - Pandas
-- NumPy
 - Matplotlib
 - Seaborn
-- Jupyter Notebook
+- Plotly
+- Power BI
+- Git & GitHub
 
-Key Tasks Performed
+---
 
+📌 ## **Task 1: SQL Fundamentals**
+
+## **Objective**
+
+Learn and apply basic SQL concepts for data retrieval and analysis.
+
+**Activities Performed**
+
+- Data Selection using SELECT
+- Filtering using WHERE
+- Sorting using ORDER BY
+- Aggregate Functions
+- GROUP BY & HAVING Clauses
+
+**Outcome**
+
+Developed a strong foundation in SQL querying and database operations.
+
+---
+
+📌 # **Task 2: Advanced SQL Analysis**
+
+## **Objective**
+
+Perform advanced data analysis using SQL.
+
+## **Activities Performed**
+
+- Joins
+- Subqueries
+- Views
+- Window Functions
+- Analytical Queries
+
+## **Outcome**
+
+Generated meaningful insights from relational databases and improved SQL problem-solving skills.
+
+---
+
+📌 # **Task 3: Data Visualization & Dashboarding**
+
+## **Objective**
+
+Analyze the Superstore Sales Dataset and create interactive visualizations and dashboards.
+
+## **Activities Performed**
+
+## **Python Visualizations**
+
+- Histogram
+- Pair Plot
+- Correlation Heatmap
+- Sales Trend Analysis
+- Category-wise Sales Analysis
+- Interactive Plotly Visualizations
+
+## **Power BI Dashboard**
+
+- KPI Cards
+- Treemap
+- Sales & Profit Analysis
+- Regional Analysis
+- State-wise Sales Map
+- Top Products Analysis
+- Interactive Slicers & Filters
+
+# **Key Insights**
+
+- Technology category generated the highest sales and profit.
+- Consumer segment contributed significantly to overall revenue.
+- Regional analysis revealed variations in sales performance.
+- Top-performing products accounted for a major share of sales.
+
+## **Outcome**
+
+Developed an interactive business intelligence dashboard that enables data-driven decision-making.
+
+---
+
+🎯 ## **Learning Outcomes**
+
+- SQL Querying
 - Data Cleaning
-- Missing Value Analysis
-- Duplicate Removal
-- Date Conversion
-- Outlier Detection using IQR
+- Exploratory Data Analysis
 - Data Visualization
-- Business Insights Generation
+- Dashboard Design
+- Business Intelligence Reporting
+- Power BI Development
+- Data Storytelling
 
-Key Insights
+---
 
-- Technology category generated the highest sales.
-- Most transactions were low-value purchases.
-- Sales and Profit showed a positive relationship.
-- Regional performance varied significantly.
-- Monthly sales exhibited seasonal trends.
-
-Author
+👩‍💻 # **Author**
 
 Jasvitha Mandepudi
+AIML Student | Data Analytics Intern
