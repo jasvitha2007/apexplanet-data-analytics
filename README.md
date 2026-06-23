@@ -1,6 +1,6 @@
-📊 # **Superstore Sales Analysis & Business Intelligence Dashboard**
+📊 **Superstore Sales Analysis & Business Intelligence Dashboard**
 
-🚀 ## **Project Overview**
+🚀 **Project Overview**
 
 This project was developed as part of the ApexPlanet Data Analytics Internship Program. The objective was to perform data analysis, create meaningful visualizations, and build an interactive Power BI dashboard using the Superstore Sales Dataset.
 
@@ -8,7 +8,7 @@ The project demonstrates skills in SQL, Data Analysis, Data Visualization, and B
 
 ---
 
-🛠️ ## **Tools & Technologies Used**
+🛠️ **Tools & Technologies Used**
 
 - SQL
 - MySQL
@@ -22,9 +22,9 @@ The project demonstrates skills in SQL, Data Analysis, Data Visualization, and B
 
 ---
 
-📌 ## **Task 1: SQL Fundamentals**
+📌 **Task 1: SQL Fundamentals**
 
-## **Objective**
+ **Objective**
 
 Learn and apply basic SQL concepts for data retrieval and analysis.
 
@@ -42,13 +42,13 @@ Developed a strong foundation in SQL querying and database operations.
 
 ---
 
-📌 # **Task 2: Advanced SQL Analysis**
+📌 **Task 2: Advanced SQL Analysis**
 
-## **Objective**
+**Objective**
 
 Perform advanced data analysis using SQL.
 
-## **Activities Performed**
+**Activities Performed**
 
 - Joins
 - Subqueries
@@ -56,21 +56,21 @@ Perform advanced data analysis using SQL.
 - Window Functions
 - Analytical Queries
 
-## **Outcome**
+**Outcome**
 
 Generated meaningful insights from relational databases and improved SQL problem-solving skills.
 
 ---
 
-📌 # **Task 3: Data Visualization & Dashboarding**
+📌 **Task 3: Data Visualization & Dashboarding**
 
-## **Objective**
+**Objective**
 
 Analyze the Superstore Sales Dataset and create interactive visualizations and dashboards.
 
-## **Activities Performed**
+**Activities Performed**
 
-## **Python Visualizations**
+**Python Visualizations**
 
 - Histogram
 - Pair Plot
@@ -79,7 +79,7 @@ Analyze the Superstore Sales Dataset and create interactive visualizations and d
 - Category-wise Sales Analysis
 - Interactive Plotly Visualizations
 
-## **Power BI Dashboard**
+**Power BI Dashboard**
 
 - KPI Cards
 - Treemap
@@ -89,20 +89,20 @@ Analyze the Superstore Sales Dataset and create interactive visualizations and d
 - Top Products Analysis
 - Interactive Slicers & Filters
 
-# **Key Insights**
+**Key Insights**
 
 - Technology category generated the highest sales and profit.
 - Consumer segment contributed significantly to overall revenue.
 - Regional analysis revealed variations in sales performance.
 - Top-performing products accounted for a major share of sales.
 
-## **Outcome**
+**Outcome**
 
 Developed an interactive business intelligence dashboard that enables data-driven decision-making.
 
 ---
 
-🎯 ## **Learning Outcomes**
+🎯 **Learning Outcomes**
 
 - SQL Querying
 - Data Cleaning
@@ -115,7 +115,7 @@ Developed an interactive business intelligence dashboard that enables data-drive
 
 ---
 
-👩‍💻 # **Author**
+👩‍💻 **Author**
 
 Jasvitha Mandepudi
 AIML Student | Data Analytics Intern
